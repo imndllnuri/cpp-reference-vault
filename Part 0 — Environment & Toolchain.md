@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-- [[#0.1 — Compilers GCC, Clang, MSVC]]
-- [[#0.2 — Build Systems Make, CMake]]
-- [[#0.3 — Debuggers GDB, LLDB]]
-- [[#0.4 — Package Managers vcpkg, Conan]]
+- [[#0.1 — Compilers: GCC, Clang, MSVC]]
+- [[#0.2 — Build Systems: Make, CMake]]
+- [[#0.3 — Debuggers: GDB, LLDB]]
+- [[#0.4 — Package Managers: vcpkg, Conan]]
 - [[#0.7 — Sanitizers]]
 
 ---
