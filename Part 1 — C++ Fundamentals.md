@@ -7,7 +7,7 @@
 - [[#1.1 — History & Philosophy of C++]]
 - [[#1.2 — The Compilation Model]]
 - [[#1.3 — Basic Types & Literals]]
-- [[#1.4 — Type Qualifiers const, volatile, mutable]]
+- [[#1.4 — Type Qualifiers: const, volatile, mutable]]
 
 ---
 
