@@ -1,6 +1,6 @@
 # Part 2 — Object-Oriented Programming
 
-> C++ OOP is not just about classes — it's about controlling how objects are created, copied, moved, and destroyed, and about using inheritance and polymorphism correctly without shooting yourself in the foot.
+> C++ OOP is not just about classes — it's about controlling how objects are created, copied, moved, and destroyed, and about using inheritance and polymorphism correctly without shooting yourself in the foot. 
 
 ## Table of Contents
 
