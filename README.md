@@ -17,3 +17,21 @@ A complete personal reference for C++ — covering everything from compiler tool
 | [[Part 8 — Systems Programming]]             | File I/O, POSIX, processes, signals, IPC, sockets, dynamic linking    |
 | [[Part 9 — Design Patterns]]                 | SOLID, GoF patterns, C++ idioms: PIMPL, CRTP, type erasure, NVI       |
 | [[Part 10 — Data Structures & Algorithms]]   | Complexity, data structures, sorting, searching, DP, graphs           |
+
+## Exercises
+
+One exercise file per part — write your solutions in `.cpp` files. No hints, no answers in the wiki.
+
+| File                                                              | Exercises cover                                          |
+| ----------------------------------------------------------------- | -------------------------------------------------------- |
+| [[Exercises — Part 0 — Environment & Toolchain]]                  | Compiler flags, sanitizers, GDB, CMake, Makefile         |
+| [[Exercises — Part 1 — C++ Fundamentals]]                         | ODR, types, qualifiers, compilation pipeline             |
+| [[Exercises — Part 2 — Object-Oriented Programming]]              | Constructors, RAII, polymorphism, rule of five           |
+| [[Exercises — Part 3 — Memory Management]]                        | Smart pointers, custom allocators, memory errors         |
+| [[Exercises — Part 4 — Standard Template Library (STL)]]          | Containers, iterators, algorithms, ranges                |
+| [[Exercises — Part 5 — Modern C++ (C++11 to C++23)]]              | Move semantics, lambdas, constexpr, concepts, coroutines |
+| [[Exercises — Part 6 — Templates & Metaprogramming]]              | Templates, SFINAE, type traits, CRTP, concepts           |
+| [[Exercises — Part 7 — Concurrency & Multithreading]]             | Threads, mutexes, atomics, futures, thread pools         |
+| [[Exercises — Part 8 — Systems Programming]]                      | POSIX, processes, signals, sockets, mmap, linking        |
+| [[Exercises — Part 9 — Design Patterns]]                          | SOLID, GoF patterns, PIMPL, type erasure, NVI            |
+| [[Exercises — Part 10 — Data Structures & Algorithms]]            | Complexity, DS, sorting, graphs, DP, backtracking, bits  |
