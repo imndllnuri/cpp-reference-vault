@@ -1,6 +1,6 @@
 # Part 6 — Templates & Metaprogramming
 
-> Templates are C++'s mechanism for generic programming — write code once, have it work for any type that satisfies the requirements. Metaprogramming extends this to compute at compile time, enforce constraints, and generate specialized code. This part covers everything from basic templates through SFINAE, type traits, CRTP, and C++20 concepts.
+> Templates are C++'s mechanism for generic programming — write code once, have it work for any type that satisfies the requirements. Metaprogramming extends this to compute at compile time, enforce constraints, and generate specialized code. This part covers everything from basic templates through SFINAE, type traits, CRTP, and C++20 concepts. 
 
 ## Table of Contents
 
